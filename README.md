@@ -1,8 +1,10 @@
 # scalender
 
-calender command by Powershell
+- calender command
 
-created by celica
+- linux にある、calender commandもどきを、powershellでつくってみました。
+
+- とりあえず、休日対応するため、sholidaylist.ps1ファイルも必要です。
 
 
 
